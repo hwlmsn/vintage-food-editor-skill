@@ -1,0 +1,8 @@
+interface:
+  display_name: "复古美食编辑摄影"
+  short_description: "批量将餐桌随手拍转成复古广告质感的美食静物照片"
+  brand_color: "#B93A2F"
+  default_prompt: "使用 $vintage-food-editor 将我上传的美食照片逐张编辑为 3:4 复古广告静物照片。"
+
+policy:
+  allow_implicit_invocation: true
